@@ -1,8 +1,8 @@
-# ⭐ Workflows and best practices
+---
+description: 'PART 1: GITHUB UI'
+---
 
-{% hint style="success" %}
-PART 1: GITHUB UI
-{% endhint %}
+# ⭐ Workflows and best practices
 
 ## Learning videos
 

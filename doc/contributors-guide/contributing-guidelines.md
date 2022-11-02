@@ -1,8 +1,8 @@
-# ℹ Contributing guidelines
+---
+description: 'PART 2: CONTRIBUTORS GUIDE'
+---
 
-{% hint style="info" %}
-Hi there 👋 Thank you for your interest to contribute to the [Git and Github for collaboration training resource](https://obiagba-mary.gitbook.io/git-and-github-training). Find the guidelines for contributing to the training resource in the links below.
-{% endhint %}
+# ℹ Contributing guidelines
 
 {% embed url="https://github.com/Ifycode/git-github-training-resource/blob/develop/CODE_OF_CONDUCT.md" %}
 

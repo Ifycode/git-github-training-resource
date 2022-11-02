@@ -1,3 +1,7 @@
+---
+description: 'PART 2: CONTRIBUTORS GUIDE'
+---
+
 # ℹ How to submit your changes to this training resource
 
 Everyone is welcome to help improve the content of the Git and Github for collaboration training resources. There are two repositories linked to the Git and Github for collaboration project i.e. [learning resource repo](https://github.com/Ifycode/git-github-training-resource) and the [training repo](https://github.com/Ifycode/git-github-training). Interested contributors can follow the guides below when contributing to any of the repositories.

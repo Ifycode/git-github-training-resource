@@ -1,8 +1,8 @@
-# 💻 Command line git setup
+---
+description: 'PART 2: COMMAND LINE GIT'
+---
 
-{% hint style="success" %}
-PART 2: COMMAND LINE GIT
-{% endhint %}
+# 💻 Command line git setup
 
 ## Learning videos
 
